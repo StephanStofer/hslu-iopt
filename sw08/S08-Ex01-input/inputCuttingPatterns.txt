@@ -1,0 +1,5 @@
+cutting pattern, four integers per line, number of cuts for: 90cm TAB 80cm TAB 70cm TAB 60cm
+3	0	0	0
+2	1	0	0
+1	1	1	1
+1	0	3	0
